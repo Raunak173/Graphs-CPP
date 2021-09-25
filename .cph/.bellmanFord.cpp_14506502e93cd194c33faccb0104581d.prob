@@ -1,0 +1,1 @@
+{"name":"Local: bellmanFord","url":"c:\\Users\\rauna\\Desktop\\Graphs\\bellmanFord.cpp","tests":[{"id":1632569635416,"input":"6 7 \n3 2 6 \n5 3 1 \n0 1 5 \n1 5 -3 \n1 2 -2 \n3 4 -2 \n2 4 3 \n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rauna\\Desktop\\Graphs\\bellmanFord.cpp","group":"local","local":true}
