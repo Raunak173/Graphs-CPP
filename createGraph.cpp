@@ -8,7 +8,7 @@ int main(){
     int v,e; //Vertex and edges
     cin>>v>>e;
 
-    vector <int> g[v+1]; //A vector of array of int of size (v+1)
+    vector <int> g[v+1]; //An array of vectors where size of array is (v+1)
 
     //If wts then we will declare a vector of array of pair of int of size (v+1)
 
